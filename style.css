@@ -9,3 +9,8 @@ body{
   border: 1px solid red;
   margin: auto;
 }
+
+#profile img{
+  width: 112px;
+  margin: auto;
+}
