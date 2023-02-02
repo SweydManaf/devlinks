@@ -33,3 +33,16 @@ body *{
 
   margin-top: 8px;
 }
+
+/* links */
+ul{
+  list-style: none;
+
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+ul li{
+  border: 1px solid red;
+}
