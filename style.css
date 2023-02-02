@@ -58,5 +58,13 @@ ul li a{
 
   text-decoration: none;
   font-weight: 500;
+
+  transition: background .2s;
 }
 
+ul li a:hover{
+  border: 1.5px solid white;
+
+  background: rgba(255, 255, 255, 0.05);
+
+}
