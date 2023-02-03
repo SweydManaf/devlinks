@@ -69,6 +69,20 @@ body *{
   border-radius: 50%;
 }
 
+#switch span{
+  display: block;
+  
+  width: 64px;
+  height: 24px;
+
+  border: 1px solid var(--stroke-color);
+  border-radius: 9999px;
+
+  background: var(--surface-color);
+  backdrop-filter: blur(4px);
+  -webkit-backdrop-filter: blur(4px);
+}
+
 /* links */
 ul{
   list-style: none;
