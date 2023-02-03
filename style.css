@@ -59,7 +59,17 @@ body *{
 }
 
 /* switch */
+#switch{
+  position: relative;
+  border: 1px solid red;
+}
+
 #switch button{
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 1;
+
   width: 32px;
   height: 32px;
   
