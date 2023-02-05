@@ -60,6 +60,9 @@ body *{
   margin-top: 8px;
 }
 
+p#bio{
+  font-size: 12px;
+}
 /* switch */
 #switch{
   position: relative;
@@ -85,10 +88,6 @@ body *{
   animation: slide-out .2s;
 
   transition: .05s;
-}
-
-#switch button:hover{
-  outline: 8px solid var(--highlight-color);
 }
 
 .light #switch button{
