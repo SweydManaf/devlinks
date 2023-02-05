@@ -26,7 +26,7 @@
 
 
 body{
-  background: black var(--bg-url) no-repeat top center/cover;
+  background: black var(--bg-url) no-repeat center center/cover;
   height: 100vh;
 }
 
