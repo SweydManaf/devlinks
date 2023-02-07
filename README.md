@@ -8,7 +8,9 @@ O DevLinks é um agregador de links para usar como cartão de visitas online.
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#scroll-certificado">Certificado</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
+  
 </p>
 
 <p align="center">
@@ -42,8 +44,8 @@ Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figm
 
 ## :scroll: Certificado
 
-<p>
-<a href=".github/devlinks-certificate.pdf">Certificado Devlinks - Rocketseat</a>
+<p align="center">
+  <img alt="certificado da rocketseat" src=".github/certificado-devlinks.png" width="100%">
 </p>
 
 ## :memo: Licença
