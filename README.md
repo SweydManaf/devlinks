@@ -14,7 +14,15 @@ O DevLinks é um agregador de links para usar como cartão de visitas online.
 </p>
 
 <p align="center">
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
+  <img src="https://img.shields.io/badge/made%20by-SWEYD%20MANAF-9C41FF?style=flat-square">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/sweydmanaf/devlinks?color=9C41FF&style=flat-square">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/sweydmanaf/devlinks?color=9C41FF&style=flat-square">
+  <a href="https://github.com/sweydmanaf/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/sweydmanaf/devlinks?color=9C41FF&style=flat-square">
+  </a>
+  <a href="https://opensource.org/licenses/MIT">
+    <img alt="License" src="https://img.shields.io/badge/license-MIT-9C41FF?style=flat-square">
+  </a>
 </p>
 
 <br>
